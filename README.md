@@ -1,16 +1,22 @@
-<h1 align="center">สวัสดีครับ 👋, ผม กรม ประพฤทธ์</h1>
-<h3 align="center">โปรแกรมเมอร์ไทยแลนด์ พัฒนาและออกแบบระบบให้กับ เทศบาลเมืองปากพูน เป็น ผู้ช่วยนักวิชาการคอมพิวเตอร์.</h3>
+<h1 align="center">สวัสดีครับ 👋, กรม ประพฤทธ์</h1>
+<h4 align="center">โปรแกรมเมอร์ พัฒนาและออกแบบระบบให้กับ เทศบาลเมืองปากพูน เป็น ผู้ช่วยนักวิชาการคอมพิวเตอร์.</h4>
 
-- 🔭 ผมกำลังพัฒนาและออกแบบระบบ [ปากพูน Smart City](https://lin.ee/WntbfjuT)
 
-- 🌱 ช่วงนี้ผมกำลังศึกษา **react, vue and node.js**
 
-- 💬 ถามเกี่ยวกับผม **HTML, CSS, JavaScript and PHP, MySQL**
+## ติดตามได้ที่
 
-- 📫 ติดต่อผมได้ที่ **prapreut.1803@gmail.com**
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)][facebook]
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)][youtube]
 
-<h3 align="left">ติดตามผมได้ที่ :</h3>
+## ภาษาโปรแกรมเมอร์
 
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+
+[facebook]: https://www.facebook.com/prapreat
+[youtube]: https://www.youtube.com/@prapreut2042
