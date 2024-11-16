@@ -11,8 +11,6 @@
 
 <h3 align="left">ติดตามผมได้ที่ :</h3>
 
-<a href="https://www.facebook.com/prapreat" target="_blank">
-  
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
-</a>
